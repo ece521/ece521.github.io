@@ -17,4 +17,4 @@ image: ""
 
 &ensp;
 
-[Course Piazza](https://piazza.com/utoronto.ca/winter2017/ece521/home) and [Course Syllabus](https://www.psi.toronto.edu/~jimmy/ece521/syllabus.pdf)
+[Course Piazza](https://piazza.com/utoronto.ca/winter2017/ece521/home) and [Course Syllabus](http://www.psi.toronto.edu/~jimmy/ece521/syllabus.pdf)
