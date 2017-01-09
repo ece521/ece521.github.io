@@ -1,0 +1,20 @@
+---
+id: info
+name: Course Information
+heading: Course Information
+subheading: Course&#58; 
+image: ""
+---
+**Instructor:**  Jimmy Ba and Mark Ebden
+
+**Section1:** M 10 -- 11 (BA1130)&ensp;TH 9 -- 11 (BA1130)
+
+**Section2:** M 11 -- 12 (RS211) &ensp; TH 12 -- 14 (LM161)
+
+**Office hours:** Jimmy: M 11-12 in BA4161 &ensp; Mark: TH 15-16 in SS6026C
+
+**Tutorials:** F 10 -- 12 (BA2155) &ensp; M 12 -- 14 (BA2155) &ensp; F 16 -- 18 (BA2155) &ensp; F 09 -- 11 (BA2145)
+
+&ensp;
+
+[Course Piazza](https://piazza.com/utoronto.ca/winter2017/ece521/home) and [Course Syllabus](https://www.psi.toronto.edu/~jimmy/ece521/syllabus.pdf)
