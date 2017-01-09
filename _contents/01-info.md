@@ -5,11 +5,12 @@ heading: Course Information
 subheading: Course&#58; 
 image: ""
 ---
-**Instructor:**  Jimmy Ba and Mark Ebden
 
 **Section1:** M 10 -- 11 (BA1130)&ensp;TH 9 -- 11 (BA1130)
 
 **Section2:** M 11 -- 12 (RS211) &ensp; TH 12 -- 14 (LM161)
+
+**Instructors:**  Jimmy Ba and Mark Ebden. Instructors won't stick strictly to teaching a given section. For example, on Thursday 19 January Mark Ebden will teach both sections (1 and 2), and in future sometimes Jimmy Ba will teach both. This will occur regularly.
 
 **Office hours:** Jimmy: M 11-12 in BA4161 &ensp; Mark: TH 15-16 in SS6026C
 
