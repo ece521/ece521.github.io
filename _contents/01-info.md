@@ -14,7 +14,7 @@ image: ""
 
 **Office hours:** Jimmy: M 11-12 in BA4161 &ensp; Mark: TH 15-16 in SS6026C
 
-**Tutorials:** F 10 -- 12 (BA2155) &ensp; M 12 -- 14 (BA2155) &ensp; F 16 -- 18 (BA2155) &ensp; F 09 -- 11 (BA2145) &ensp; F 09 -- 11 (BA1240)
+**Tutorials:** F 10 -- 12 (BA2155) &ensp; M 12 -- 14 (BA2155) &ensp; F 16 -- 18 (BA2155) &ensp; F 09 -- 11 (**GB248**) (merged TUT0104 and TUT0105)
 
 &ensp;
 
