@@ -19,5 +19,5 @@ image: ""
 | **Week 3** |            | 
 | Lecture: Monday, Jan 23 |            | Probabilistic interpretation of linear regression <br/> MLE vs. MAP <br/> Optimal regressor
 | Assignment 1: Wednesday, Jan 25 | Due date: Feb 7 midnight, 2017 <br/> k-NN, Gaussian process (bonus), linear regression            | [Assignment handout](http://www.psi.toronto.edu/~jimmy/ece521/a1.pdf) <br/> Download Tiny MNIST dataset [here](http://www.psi.toronto.edu/~jimmy/ece521/tinymnist.npz)
-| Lecture: Thursday, Jan 26 |            | Optimal regressor <br/> Feature expansion <br/> Decision theory <br/> [joint pdf slides](http://www.psi.toronto.edu/~jimmy/ece521/Lec5and6.pdf)
+| Lecture: Thursday, Jan 26 | Regression and decision theory: *Bishop 2006, Chap. 1.5* <br/> Bias-variance trade-off: *Bishop 2006, Chap. 3.2*            | Optimal regressor <br/> Feature expansion <br/> Decision theory <br/> [joint pdf slides](http://www.psi.toronto.edu/~jimmy/ece521/Lec5and6.pdf)
 | Tutorial |            | k-NN, Linear regression  <br/> Gaussian process regression <br/> Training, validtion and test set  
