@@ -22,4 +22,4 @@ image: ""
 | Lecture: Thursday, Jan 26 | Regression and decision theory: *Bishop 2006, Chap. 1.5* <br/> Bias-variance trade-off: *Bishop 2006, Chap. 3.2*            | Optimal regressor <br/> Feature expansion <br/> Decision theory <br/> [joint pdf slides](http://www.psi.toronto.edu/~jimmy/ece521/Lec5and6.pdf)
 | Tutorial |            | k-NN, Linear regression  <br/> Gaussian process regression <br/> Training, validtion and test set  
 | **Week 4** |            | 
-| Lecture: Monday, Jan 30 |            | Recap decision theory <br/> logistic regression <br/> neural networks
+| Lecture: Monday, Jan 30 |            | Recap decision theory <br/> Logistic regression <br/> Neural networks
