@@ -2,7 +2,7 @@
 id: contact
 name: TAs
 heading: Teaching Team
-subheading: Teaching Assitants&#58;
+subheading: Teaching Assistants&#58;
 image: ""
 ---
 
