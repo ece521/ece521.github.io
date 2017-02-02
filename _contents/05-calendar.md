@@ -23,4 +23,4 @@ image: ""
 | Tutorial |            | k-NN, Linear regression  <br/> Gaussian process regression <br/> Training, validtion and test set  <br/> [pdf slides](http://www.psi.toronto.edu/~jimmy/ece521/Tut3.pdf)
 | **Week 4** |            | 
 | Lecture: Monday, Jan 30 |            | Recap decision theory <br/> Logistic regression <br/> Neural networks <br/> [pdf slides](http://www.psi.toronto.edu/~jimmy/ece521/Lec7-logistic.pdf)
-| Lecture: Thursday, Feb 2 |            | Neural networks <br/> Backpropagation 
+| Lecture: Thursday, Feb 2 |            | Neural networks <br/> Backpropagation <br/> [pdf slides](http://www.psi.toronto.edu/~jimmy/ece521/Lec8-nnP.pdf)
