@@ -27,4 +27,4 @@ image: ""
 | Tutorial |            | Logistic regression <br/>  Backpropagation examples  <br/> [pdf slides](http://www.psi.toronto.edu/~jimmy/ece521/Tut4.pdf)
 | **Week 5** |            | 
 | Lecture: Monday, Feb 6 |            | Multi-class classification <br/> Learning feedforward neural networks <br/> Bag-of-tricks for deep neural networks <br/> [pdf slides](http://www.psi.toronto.edu/~jimmy/ece521/Lec9-nn2.pdf)
-|| Lecture: Thursday, Feb 9 |            | Convolutional neuarl networks <br/> Recurrent neuarl networks <br/> Auto-encoders and PCA 
+|| Lecture: Thursday, Feb 9 |            | Types of neural networks <br/> Auto-encoders and PCA
