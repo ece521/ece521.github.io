@@ -26,5 +26,5 @@ image: ""
 | Lecture: Thursday, Feb 2 | Neural networks: *Bishop 2006, Chap. 5*, *MacKay 2003, Chap. 39-40, 44*, *Hastie et al 2013, Chap. 11* <br/>            | Neural networks <br/> Backpropagation <br/> [pdf slides](http://www.mebden.com/ECE521/Lec8-nnP.pdf)
 | Tutorial |            | Logistic regression <br/>  Backpropagation examples  <br/> [pdf slides](http://www.psi.toronto.edu/~jimmy/ece521/Tut4.pdf)
 | **Week 5** |            | 
-| Lecture: Monday, Feb 6 |            | Multi-class classification <br/> Learning feedforward neural networks <br/> Bag-of-tricks for deep neural networks <br/> [pdf slides](http://www.psi.toronto.edu/~jimmy/ece521/Lec9-nn2.pdf)
+| Lecture: Monday, Feb 6 |            | Multi-class classification <br/> Learning feedforward neural networks <br/> Bag-of-tricks for deep neural networks <br/> [pdf slides](http://www.mebden.com/ECE521/Lec9-nn2.pdf)
 | Lecture: Thursday, Feb 9 |            | Types of neural networks <br/> Auto-encoders and PCA
