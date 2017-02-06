@@ -6,6 +6,8 @@ subheading: Announcements&#58;
 image: ""
 ---
 
+ - **Feb 6,  9:27am**: We are trying to recruit a volunteer note-taker for the ECE521H1 section 0101 for students registered with Accessibility Service. Email [as.notetaking@utoronto.ca](mailto:as.notetaking@utoronto.ca) if you have questions or require any assistance. Thanks.
+
  - **Jan 25,  2:29pm**: I apologize for the multiple delays and the assignment 1 handout is finally out. We have spent quite sometime designing the exercises in the assignment and we hope you may find it rewarding to solve them. The pdf handout and the related dataset can be downloaded from the calendar section at this course website. The due date is Feb 7 midnight, 2017. You have two weeks to complete this assignment. There is a bonus part in the assignment that is roughly equal to 30% of assignment 1. The bonus marks can be used towards the final grade of this course.
 
  - **Jan 16,  6:18pm**: The Friday morning 9-11 tutorial sections TUT0104 and TUT0105 are now merged and will be held in GB248 from now on. 
