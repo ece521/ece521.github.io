@@ -30,3 +30,5 @@ image: ""
 | Lecture: Thursday, Feb 9 |            | Bag-of-tricks for deep neural networks <br/> Types of neural networks: convolutional neural networks, recurrent neural networks <br/>
 | Assignment 2: Thursday, Feb 9 | Due date: Feb 27 midnight, 2017 <br/> logistic regression, neural networks            | [Assignment handout](http://www.psi.toronto.edu/~jimmy/ece521/a2.pdf) <br/> Download notMNIST dataset [here](http://www.psi.toronto.edu/~jimmy/ece521/notMNIST.npz)
 | Tutorial |            | Neural networks <br/> example midterm questions
+| **Week 6** |            | 
+| Midterm: Thursday, Feb 16 | Time: 6:20-7:50 pm            | [sample midterm from 2016](http://www.psi.toronto.edu/~jimmy/ece521/ECE521_midterm_2016.pdf)
