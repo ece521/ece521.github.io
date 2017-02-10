@@ -29,6 +29,6 @@ image: ""
 | Lecture: Monday, Feb 6 |            | Multi-class classification <br/> Learning feedforward neural networks <br/> [pdf slides](http://www.mebden.com/ECE521/Lec9-nn2.pdf)
 | Lecture: Thursday, Feb 9 |            | Bag-of-tricks for deep neural networks <br/> Types of neural networks: convolutional neural networks, recurrent neural networks <br/>
 | Assignment 2: Thursday, Feb 9 | Due date: Feb 27 midnight, 2017 <br/> logistic regression, neural networks            | [Assignment handout](http://www.psi.toronto.edu/~jimmy/ece521/a2.pdf) <br/> Download notMNIST dataset [here](http://www.psi.toronto.edu/~jimmy/ece521/notMNIST.npz)
-| Tutorial |            | Neural networks <br/> example midterm questions
+| Tutorial |            | Neural networks <br/> Assignment 1 post-mortem
 | **Week 6** |            | 
-| Midterm: Thursday, Feb 16 | Time: 6:20-7:50 pm            | [sample midterm from 2016](http://www.psi.toronto.edu/~jimmy/ece521/ECE521_midterm_2016.pdf) <br/> [midterm cheatsheet template](http://undergrad.engineering.utoronto.ca/wp-content/uploads/2016/06/Examination-Aid-Sheet-0215.pdf)
+| Midterm: Thursday, Feb 16 | Time: 6:20-7:50 pm            | [Sample midterm from 2016](http://www.psi.toronto.edu/~jimmy/ece521/ECE521_midterm_2016.pdf) <br/> [Midterm cheatsheet template](http://undergrad.engineering.utoronto.ca/wp-content/uploads/2016/06/Examination-Aid-Sheet-0215.pdf)
