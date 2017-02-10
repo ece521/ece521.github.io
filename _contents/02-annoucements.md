@@ -6,6 +6,8 @@ subheading: Announcements&#58;
 image: ""
 ---
 
+ - **Feb 9,  11:37pm**: The assignment 2 pdf handout and the related dataset is out on the course website. The due date is Feb 27th midnight, 2017. You have more than two weeks to complete this assignment. 
+
  - **Feb 6,  3:00pm**: Typo correction for the bonus question 1.4.1 of the assignment 1, the \lambda should be set to 100 instead when you report the simulation results. You should see a smooth prediction from your Gaussian process regression model. 
 
  - **Feb 6,  9:27am**: We are trying to recruit a volunteer note-taker for the ECE521H1 section 0101 for students registered with Accessibility Service. Email [as.notetaking@utoronto.ca](mailto:as.notetaking@utoronto.ca) if you have questions or require any assistance. Thanks.
