@@ -6,6 +6,8 @@ subheading: Announcements&#58;
 image: ""
 ---
 
+ - **Feb 13,  3:27pm**: Skule has implemented a new on-going annoynemous feedback system [SpeakUp!](http://speakup.skule.ca/). Instead of filling out the monthly early course evaluation in class, you can also submit your feedbacks on a rolling basis through the SpeakUp! webpage and your class rep will contact the course instructors to discuss the issues. 
+
  - **Feb 10,  1:18am**: The midterm questions from 2016 is posted. And you can find the midterm cheatsheet template on this page that you may enter information on both sides of the aid sheet, without restriction. The cheatsheet should be printed on 8.5″ x 11″ paper. 
 
  - **Feb 9,  11:37pm**: The assignment 2 pdf handout and the related dataset is out on the course website. The due date is Feb 27th midnight, 2017. You have more than two weeks to complete this assignment. 
