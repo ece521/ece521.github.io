@@ -18,7 +18,7 @@ image: ""
 | Tutorial |            | Tricks to improve SGD  <br/> "Tuning/debugging" optimizer <br/> Multivariate Gaussian  <br/> Underfitting vs. overfitting  <br/> [pdf slides](http://www.psi.toronto.edu/~jimmy/ece521/Tut2.pdf)
 | **Week 3** |            | 
 | Lecture: Monday, Jan 23 |            | Probabilistic interpretation of linear regression <br/> MLE vs. MAP <br/> Optimal regressor <br/> [pdf slides] (see the joint slide deck from Jan 26)
-| Assignment 1: Wednesday, Jan 25 | Due date: Feb 7 midnight, 2017 <br/> k-NN, Gaussian process (bonus), linear regression            | [Assignment handout](http://www.psi.toronto.edu/~jimmy/ece521/a1.pdf) <br/> Download Tiny MNIST dataset [here](http://www.psi.toronto.edu/~jimmy/ece521/tinymnist.npz)
+| Assignment 1: Wednesday, Jan 25 | Due date: Feb 7 midnight, 2017 <br/> k-NN, Gaussian process (bonus), linear regression            | [Assignment handout](http://www.psi.toronto.edu/~jimmy/ece521/a1.pdf) <br/> Download Tiny MNIST dataset [here](http://www.psi.toronto.edu/~jimmy/ece521/tinymnist.npz) <br/> [Assignment solution](http://www.psi.toronto.edu/~jimmy/ece521/a1_soln.pdf)
 | Lecture: Thursday, Jan 26 | Regression and decision theory: *Bishop 2006, Chap. 1.5* <br/> Bias-variance trade-off: *Bishop 2006, Chap. 3.2*            | Optimal regressor <br/> Feature expansion <br/> Decision theory <br/> [joint pdf slides](http://www.psi.toronto.edu/~jimmy/ece521/Lec5and6.pdf)
 | Tutorial |            | k-NN, Linear regression  <br/> Gaussian process regression <br/> Training, validtion and test set  <br/> [pdf slides](http://www.psi.toronto.edu/~jimmy/ece521/Tut3.pdf)
 | **Week 4** |            | 
