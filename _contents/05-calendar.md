@@ -33,6 +33,6 @@ image: ""
 | **Week 6** |            | 
 | Lecture: Mon, Feb 13 | Bishop 9.1 and 12.1           | <a href="http://mebden.com/ECE521/Lec11.pdf">k-means clustering, dimensionality reduction</a>
 | Study: Thu, Feb 16 |            | Study independently in the classroom, with instructor on hand for questions. Unstructured.
-| Midterm: Thursday, Feb 16 | Time: 6:20-7:50 pm. <br/>  Surnames A to K:  BI 131  <br/> Surnames L to Z: PB B150 | [Sample midterm from 2016](http://www.psi.toronto.edu/~jimmy/ece521/ECE521_midterm_2016.pdf) <br/> [Midterm cheatsheet template](http://undergrad.engineering.utoronto.ca/wp-content/uploads/2016/06/Examination-Aid-Sheet-0215.pdf)
+| Midterm: Thursday, Feb 16 | Time: 6:20-7:50 pm.  | [Sample midterm from 2016](http://www.psi.toronto.edu/~jimmy/ece521/ECE521_midterm_2016.pdf) <br/> [Midterm cheatsheet template](http://undergrad.engineering.utoronto.ca/wp-content/uploads/2016/06/Examination-Aid-Sheet-0215.pdf)<br/>[Histogram of results](histMidtermECE.png)
 | **Week 7** |            | 
 | Lecture: Mon, Feb 27 |  Bishop 3.3<br/>  Murphy 2012: parts of chap. 5 & sec. 7.6   | <a href="http://mebden.com/ECE521/Lec12.pdf">PCA continued, Bayesian methods</a>
