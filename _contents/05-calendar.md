@@ -18,7 +18,7 @@ image: ""
 | Tutorial |            | Tricks to improve SGD  <br/> "Tuning/debugging" optimizer <br/> Multivariate Gaussian  <br/> Underfitting vs. overfitting  <br/> [pdf slides](http://www.psi.toronto.edu/~jimmy/ece521/Tut2.pdf)
 | **Week 3** |            | 
 | Lecture: Monday, Jan 23 |            | Probabilistic interpretation of linear regression <br/> MLE vs. MAP <br/> Optimal regressor <br/> [pdf slides] (see the joint slide deck from Jan 26)
-| Assignment 1: Wednesday, Jan 25 | Due date: Feb 7 midnight, 2017 <br/> k-NN, Gaussian process (bonus), linear regression            | [Assignment handout](http://www.psi.toronto.edu/~jimmy/ece521/a1.pdf) <br/> Download Tiny MNIST dataset [here](http://www.psi.toronto.edu/~jimmy/ece521/tinymnist.npz) <br/> [Assignment solution](http://www.psi.toronto.edu/~jimmy/ece521/a1_soln.pdf)<br/> [Histogram of results](histAss1_ECE.png)
+| Assignment 1: Wednesday, Jan 25 | Due date: Feb 7 midnight, 2017 <br/> k-NN, Gaussian process (bonus), linear regression            | [Assignment handout](http://www.psi.toronto.edu/~jimmy/ece521/a1.pdf) <br/> Download Tiny MNIST dataset [here](http://www.psi.toronto.edu/~jimmy/ece521/tinymnist.npz) <br/> [Assignment solution](http://www.psi.toronto.edu/~jimmy/ece521/a1_soln.pdf)<br/> [Histogram of results](http://mebden.com/ECE521/histAss1_ECE.png)
 | Lecture: Thursday, Jan 26 | Regression and decision theory: *Bishop 2006, Chap. 1.5* <br/> Bias-variance trade-off: *Bishop 2006, Chap. 3.2*            | Optimal regressor <br/> Feature expansion <br/> Decision theory <br/> [joint pdf slides](http://www.psi.toronto.edu/~jimmy/ece521/Lec5and6.pdf)
 | Tutorial |            | k-NN, Linear regression  <br/> Gaussian process regression <br/> Training, validation and test set  <br/> [pdf slides](http://www.psi.toronto.edu/~jimmy/ece521/Tut3.pdf)
 | **Week 4** |            | 
@@ -33,6 +33,6 @@ image: ""
 | **Week 6** |            | 
 | Lecture: Mon, Feb 13 | Bishop 9.1 and 12.1           | <a href="http://mebden.com/ECE521/Lec11.pdf">k-means clustering, dimensionality reduction</a>
 | Study: Thu, Feb 16 |            | Study independently in the classroom, with instructor on hand for questions. Unstructured.
-| Midterm: Thursday, Feb 16 | Time: 6:20-7:50 pm.  | [Sample midterm from 2016](http://www.psi.toronto.edu/~jimmy/ece521/ECE521_midterm_2016.pdf) <br/> [Midterm cheatsheet template](http://undergrad.engineering.utoronto.ca/wp-content/uploads/2016/06/Examination-Aid-Sheet-0215.pdf)<br/>[Histogram of results](histMidtermECE.png)
+| Midterm: Thursday, Feb 16 | Time: 6:20-7:50 pm.  | [Sample midterm from 2016](http://www.psi.toronto.edu/~jimmy/ece521/ECE521_midterm_2016.pdf) <br/> [Midterm cheatsheet template](http://undergrad.engineering.utoronto.ca/wp-content/uploads/2016/06/Examination-Aid-Sheet-0215.pdf)<br/>[Histogram of results](http://mebden.com/ECE521/histMidtermECE.png)
 | **Week 7** |            | 
 | Lecture: Mon, Feb 27 |  Bishop 3.3<br/>  Murphy 2012: parts of chap. 5 & sec. 7.6   | <a href="http://mebden.com/ECE521/Lec12.pdf">PCA continued, Bayesian methods</a>
