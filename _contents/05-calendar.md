@@ -38,4 +38,5 @@ image: ""
 | **Week 7** |            | 
 | Lecture: Mon, Feb 27 | Bishop 3.3<br/>  Murphy 2012: parts of chap. 5 & sec. 7.6   | <a href="http://mebden.com/ECE521/Lec12.pdf">PCA continued, Bayesian methods</a>
 | Lecture: Thu, Mar 2 | Bishop 1.2.6 (Bayesian prediction), 1.3 (model selection), 2.4.2 (conjugate prior)   | [Bayesian learning continued](http://mebden.com/ECE521/Lec12.pdf)
-| Tutorial |    | Examples of PCA, k-Means <br/> Bayesian predictive distribution <br/> Bayesian model comparison
+| Tutorial |    | Examples of PCA, k-Means <br/> Bayesian predictive distribution <br/> Bayesian model comparison
+| Lecture: Mon, Mar 6 |    | [Mixture models, EM algorithm](http://mebden.com/ECE521/Lec14-15.pdf)
