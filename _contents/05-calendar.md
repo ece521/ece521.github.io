@@ -40,3 +40,4 @@ image: ""
 | Lecture: Thu, Mar 2 | Bishop 1.2.6 (Bayesian prediction), 1.3 (model selection), 2.4.2 (conjugate prior)   | [Bayesian learning continued](http://mebden.com/ECE521/Lec12.pdf)
 | Tutorial |    | Examples of PCA, k-Means <br/> Bayesian predictive distribution <br/> Bayesian model comparison
 | Lecture: Mon, Mar 6 |    | [Mixture models, EM algorithm](http://mebden.com/ECE521/Lec14-15.pdf)
+| Assignment 3: Wed, Mar 8 | Due date: March 24 midnight, 2017 <br/> Unsupervised learning, probablistic models             | [Assignment handout](http://www.psi.toronto.edu/~jimmy/ece521/a3.pdf) <br/> Download the datasets: [data2D](http://www.psi.toronto.edu/~jimmy/ece521/data2D.npy), [data100D](http://www.psi.toronto.edu/~jimmy/ece521/data100D.npy), [tinymnist](http://www.psi.toronto.edu/~jimmy/ece521/tinymnist.npz)
