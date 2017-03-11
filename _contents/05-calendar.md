@@ -43,3 +43,6 @@ image: ""
 | Lecture: Mon, Mar 6 |    | [Mixture models, EM algorithm](http://mebden.com/ECE521/Lec14-15.pdf)
 | Assignment 3: Wed, Mar 8 | Due date: March 24 midnight, 2017 <br/> Unsupervised learning, probablistic models             | [Assignment handout](http://www.psi.toronto.edu/~jimmy/ece521/a3.pdf) <br/> Download the datasets: [data2D](http://www.psi.toronto.edu/~jimmy/ece521/data2D.npy), [data100D](http://www.psi.toronto.edu/~jimmy/ece521/data100D.npy), [tinymnist](http://www.psi.toronto.edu/~jimmy/ece521/tinymnist.npz) <br/> Download the utility function [here](http://www.psi.toronto.edu/~jimmy/ece521/utils.py)
 | Lecture: Thu, Mar 9 |    | [Mixture of Gaussians, Naive Bayes and Bayesian Networks](http://www.psi.toronto.edu/~jimmy/ece521/lec15.pdf)
+| **Week 9** |            | 
+| Lecture: Mon, Mar 13 |    | []()
+| Lecture: Thu, Mar 16 |    | []()
