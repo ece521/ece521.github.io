@@ -45,5 +45,5 @@ image: ""
 | Lecture: Thu, Mar 9 | Naive Bayes: Hastie et al 2013, Chap. 6.6.3 <br/> Bayesian network: Bishop 8.1, 8.2   | [Mixture of Gaussians, Naive Bayes and Bayesian Networks](http://www.psi.toronto.edu/~jimmy/ece521/lec15.pdf)
 | Tutorial |    | Introducing A3 <br/> Examples of Mixture of Bernoullis <br/> EM algorithm
 | **Week 9** |            | 
-| Lecture: Mon, Mar 13 |    | []()
+| Lecture: Mon, Mar 13 |Bishop 8.1 & 8.2; parts of Murphy Ch. 10; Russell and Norvig 2009 (AI: A Modern Approach) parts of Ch. 14   | [Bayesian networks continued](http://mebden.com/ECE521/Lec16.pdf)
 | Lecture: Thu, Mar 16 |    | []()
