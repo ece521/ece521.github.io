@@ -46,4 +46,16 @@ image: ""
 | Tutorial |    | Introducing A3 <br/> Examples of Mixture of Bernoullis <br/> EM algorithm
 | **Week 9** |            | 
 | Lecture: Mon, Mar 13 |Bishop 8.1 & 8.2; parts of Murphy Ch. 10; Russell and Norvig 2009 (AI: A Modern Approach) parts of Ch. 14   | [Bayesian networks continued](http://mebden.com/ECE521/Lec16.pdf)
-| Lecture: Thu, Mar 16 |    | []()
+| Lecture: Thu, Mar 16 | Bishop 8.3, 8.4.3   | [Markov Random Fields, factor graphs]()
+| **Week 10** |           |
+| Lecture: Mon, Mar 20 | Parts of Bishop Chap. 13   | [Sequence models]()
+| Lecture: Thu, Mar 23 | Parts of Bishop Chap. 13  | [Hidden Markov Models]()
+| **Week 11** |       |
+| Lecture: Mon, Mar 27 | Bishop 8.4.4   | [Sum-product algorithm, etc]() (tentative)
+| Lecture: Thu, Mar 30 | Bishop 13.2.5   | [Viterbi algorithm, etc]() (tentative)
+| **Week 12** |       |
+| Lecture: Mon, Apr 3 |  Bishop 8.4.7  | [Loopy belief propagation]() (tentative)
+| Lecture: Thu, Apr 6 |    |
+| **Week 13** |       |
+| Lecture: Mon, Apr 10 |    |
+| Lecture: Thu, Apr 13 |    |
