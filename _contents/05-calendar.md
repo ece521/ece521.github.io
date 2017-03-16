@@ -46,7 +46,7 @@ image: ""
 | Tutorial |    | Introducing A3 <br/> Examples of Mixture of Bernoullis <br/> EM algorithm <br/> [pdf slides](http://www.psi.toronto.edu/~jimmy/ece521/Tut8.pdf)
 | **Week 9** |            | 
 | Lecture: Mon, Mar 13 |Bishop 8.1 & 8.2; parts of Murphy Ch. 10; Russell and Norvig 2009 (AI: A Modern Approach) parts of Ch. 14   | [Bayesian networks continued](http://mebden.com/ECE521/Lec16.pdf)
-| Lecture: Thu, Mar 16 | Bishop 8.3, 8.4.3   | [Markov Random Fields, factor graphs]()
+| Lecture: Thu, Mar 16 | Bishop 8.3, 8.4.3   | [Markov Random Fields, factor graphs](http://mebden.com/ECE521/Lec17.pdf)
 | **Week 10** |           |
 | Lecture: Mon, Mar 20 | Parts of Bishop Chap. 13   | [Sequence models]() (We may have a guest lecturer this day: Prof Brendan Frey)
 | Lecture: Thu, Mar 23 | Parts of Bishop Chap. 13  | [Hidden Markov Models]()
