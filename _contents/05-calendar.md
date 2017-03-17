@@ -48,7 +48,7 @@ image: ""
 | Lecture: Mon, Mar 13 |Bishop 8.1 & 8.2; parts of Murphy Ch. 10; Russell and Norvig 2009 (AI: A Modern Approach) parts of Ch. 14   | [Bayesian networks continued](http://mebden.com/ECE521/Lec16.pdf)
 | Lecture: Thu, Mar 16 | Bishop 8.3, 8.4.3   | [Markov Random Fields, factor graphs](http://mebden.com/ECE521/Lec17.pdf)
 | **Week 10** |           |
-| Lecture: Mon, Mar 20 | Parts of Bishop Chap. 13   | [Sequence models]() (Taught by Jimmy Ba, not Prof Brendan Frey as once expected)
+| Lecture: Mon, Mar 20 | Parts of Bishop Chap. 13   | [Sequence models]() (Taught by Jimmy Ba, not Brendan Frey as once expected)
 | Lecture: Thu, Mar 23 | Parts of Bishop Chap. 13  | [Hidden Markov Models]()
 | **Week 11** |       |
 | Lecture: Mon, Mar 27 | Bishop 8.4.4   | [Sum-product algorithm, etc]() (tentative)
