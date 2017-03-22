@@ -43,10 +43,11 @@ image: ""
 | Lecture: Mon, Mar 6 | Mixture of Gaussians: Bishop 9.2  <br/> EM algorithm: Bishop 9.3   | [Mixture models, EM algorithm](http://mebden.com/ECE521/Lec14-15.pdf)
 | Assignment 3: Wed, Mar 8 | Due date: March 24 midnight, 2017 <br/> Unsupervised learning, probablistic models             | [Assignment handout (updated Mar 13th)](http://www.psi.toronto.edu/~jimmy/ece521/a3.pdf) <br/> Download the datasets: [data2D](http://www.psi.toronto.edu/~jimmy/ece521/data2D.npy), [data100D](http://www.psi.toronto.edu/~jimmy/ece521/data100D.npy), [tinymnist](http://www.psi.toronto.edu/~jimmy/ece521/tinymnist.npz) <br/> Download the utility function [here](http://www.psi.toronto.edu/~jimmy/ece521/utils.py)
 | Lecture: Thu, Mar 9 | Naive Bayes: Hastie et al 2013, Chap. 6.6.3 <br/> Bayesian network: Bishop 8.1, 8.2   | [Mixture of Gaussians, Naive Bayes and Bayesian Networks](http://www.psi.toronto.edu/~jimmy/ece521/lec15.pdf)
-| Tutorial |    | Introducing A3 <br/> Examples of Mixture of Bernoullis <br/> EM algorithm <br/> [pdf slides](http://www.psi.toronto.edu/~jimmy/ece521/Tut8.pdf)
+| Tutorial |    | Introducing A3 <br/> Examples of Mixture of Bernoullis <br/> EM algorithm <br/> [pdf slides](http://www.psi.toronto.edu/~jimmy/ece521/Tut7.pdf)
 | **Week 9** |            | 
 | Lecture: Mon, Mar 13 |Bishop 8.1 & 8.2; parts of Murphy Ch. 10; Russell and Norvig 2009 (AI: A Modern Approach) parts of Ch. 14   | [Bayesian networks continued](http://mebden.com/ECE521/Lec16.pdf)
 | Lecture: Thu, Mar 16 | Bishop 8.3, 8.4.3   | [Markov Random Fields, factor graphs](http://mebden.com/ECE521/Lec17.pdf)
+| Tutorial |    | Review of graphical models <br/> Conversion between BN, MRF and FG <br/> Inference in graphical models  <br/> [pdf slides](http://www.psi.toronto.edu/~jimmy/ece521/Tut8.pdf)
 | **Week 10** |           |
 | Lecture: Mon, Mar 20 | Parts of Bishop Chap. 13   | [Sequence models](http://www.psi.toronto.edu/~jimmy/ece521/Lec18-hmm.pdf) (Taught by Jimmy Ba, not Brendan Frey as once expected)
 | Lecture: Thu, Mar 23 | Parts of Bishop Chap. 13  | [Hidden Markov Models]()
