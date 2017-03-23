@@ -50,7 +50,7 @@ image: ""
 | Tutorial |    | Review of graphical models <br/> Conversion between BN, MRF and FG <br/> Inference in graphical models  <br/> [pdf slides](http://www.psi.toronto.edu/~jimmy/ece521/Tut8.pdf)
 | **Week 10** |           |
 | Lecture: Mon, Mar 20 | Parts of Bishop Chap. 13   | [Sequence models](http://www.psi.toronto.edu/~jimmy/ece521/Lec18-hmm.pdf) (Taught by Jimmy Ba, not Brendan Frey as once expected)
-| Lecture: Thu, Mar 23 | Parts of Bishop Chap. 13  | [Hidden Markov Models]()
+| Lecture: Thu, Mar 23 | Parts of Bishop Chap. 13  | [Hidden Markov Models](http://www.psi.toronto.edu/~jimmy/ece521/Lec18-hmm2.pdf)
 | **Week 11** |       |
 | Lecture: Mon, Mar 27 | Bishop 8.4.4   | [Sum-product algorithm, etc]() (tentative)
 | Lecture: Thu, Mar 30 | Bishop 13.2.5   | [Viterbi algorithm, etc]() (tentative)
