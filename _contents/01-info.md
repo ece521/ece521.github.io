@@ -20,6 +20,6 @@ image: ""
 
 Instructors won't stick strictly to teaching a given section. For example, on Thursday 19 January Mark Ebden will teach both sections (1 and 2), and in future sometimes Jimmy Ba will teach both. This will occur regularly.
 
-[Course Piazza](https://piazza.com/utoronto.ca/winter2017/ece521/home) and [Course Syllabus](http://www.psi.toronto.edu/~jimmy/ece521/syllabus.pdf)
+[Course Piazza]() and [Course Syllabus](http://www.psi.toronto.edu/~jimmy/ece521/syllabus.pdf)
 
 Note that the time of the midterm has changed from what the syllabus initially said. It is now to begin in the evening but still lasting about 90 minutes.
