@@ -49,14 +49,14 @@ image: ""
 | Lecture: Thu, Mar 16 | Bishop 8.3, 8.4.3   | [Markov Random Fields, factor graphs](http://mebden.com/ECE521/Lec17.pdf)
 | Tutorial |    | Review of graphical models <br/> Conversion between BN, MRF and FG <br/> Inference in graphical models  <br/> [pdf slides](http://www.psi.toronto.edu/~jimmy/ece521/Tut8.pdf)
 | **Week 10** |           |
-| Lecture: Mon, Mar 20 | Parts of Bishop Chap. 13   | [Sequence models](http://www.psi.toronto.edu/~jimmy/ece521/Lec18-hmm.pdf) 
-| Lecture: Thu, Mar 23 | Parts of Bishop Chap. 13  | [Hidden Markov Models](http://www.psi.toronto.edu/~jimmy/ece521/Lec19-hmm2.pdf)
+| Lecture: Mon, Mar 20 | Russell & Norvig 15.1<br/>Parts of Bishop Chap. 13   | [Sequence models](http://www.psi.toronto.edu/~jimmy/ece521/Lec18-hmm.pdf) 
+| Lecture: Thu, Mar 23 | Parts of Russell & Norvig 15.3<br/>Parts of Bishop Chap. 13  | [Hidden Markov Models](http://www.psi.toronto.edu/~jimmy/ece521/Lec19-hmm2.pdf)
 | Tutorial |    | Review of Markov models <br/> Examples of inference in graphical models  <br/> [pdf slides]()
 | **Week 11** |       |
-| Lecture: Mon, Mar 27 | Parts of Murphy Chap 17<br/> Parts of Russell & Norvig Chap 15<br/> Bishop 13.2.5   | [Viterbi algorithm, etc]()
-| Lecture: Thu, Mar 30 | Mackay Chapter 16<br/> Bishop 8.4.4   | [Sum-product algorithm, etc]()
+| Lecture: Mon, Mar 27 | Murphy 17.4<br/>End of Russell & Norvig 15.2<br/>Bishop 13.2.5   | [Viterbi algorithm, etc]()
+| Lecture: Thu, Mar 30 | Parts of Mackay Chapter 16 and Sections 26.1-26.2<br/> Bishop 8.4.4   | [Sum-product algorithm, etc]()
 | **Week 12** |       |
-| Lecture: Mon, Apr 3 |  Parts of MacKay Chapter 26<br/> Bishop 8.4.7  | [Loopy belief propagation]() (tentative)
+| Lecture: Mon, Apr 3 |  MacKay 26.4<br/> Bishop 8.4.7  | [Loopy belief propagation]() 
 | Lecture: Thu, Apr 6 |    |
 | **Week 13** |       |
 | Lecture: Mon, Apr 10 |    |
