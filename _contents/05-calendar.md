@@ -45,18 +45,18 @@ image: ""
 | Lecture: Thu, Mar 9 | Naive Bayes: Hastie et al 2013, Chap. 6.6.3 <br/> Bayesian network: Bishop 8.1, 8.2   | [Mixture of Gaussians, Naive Bayes and Bayesian Networks](http://www.psi.toronto.edu/~jimmy/ece521/lec15.pdf)
 | Tutorial |    | Introducing A3 <br/> Examples of Mixture of Bernoullis <br/> EM algorithm <br/> [pdf slides](http://www.psi.toronto.edu/~jimmy/ece521/Tut7.pdf)
 | **Week 9** |            | 
-| Lecture: Mon, Mar 13 |Bishop 8.1 & 8.2; parts of Murphy Ch. 10; Russell and Norvig 2009 (AI: A Modern Approach) parts of Ch. 14   | [Bayesian networks continued](http://mebden.com/ECE521/Lec16.pdf)
+| Lecture: Mon, Mar 13 |Bishop 8.1 & 8.2<br/>Parts of Murphy Ch. 10<br/>Russell and Norvig 2009 (<i>AI: A Modern Approach</i>) parts of Ch. 14   | [Bayesian networks continued](http://mebden.com/ECE521/Lec16.pdf)
 | Lecture: Thu, Mar 16 | Bishop 8.3, 8.4.3   | [Markov Random Fields, factor graphs](http://mebden.com/ECE521/Lec17.pdf)
 | Tutorial |    | Review of graphical models <br/> Conversion between BN, MRF and FG <br/> Inference in graphical models  <br/> [pdf slides](http://www.psi.toronto.edu/~jimmy/ece521/Tut8.pdf)
 | **Week 10** |           |
-| Lecture: Mon, Mar 20 | Parts of Bishop Chap. 13   | [Sequence models](http://www.psi.toronto.edu/~jimmy/ece521/Lec18-hmm.pdf) (Taught by Jimmy Ba, not Brendan Frey as once expected)
+| Lecture: Mon, Mar 20 | Parts of Bishop Chap. 13   | [Sequence models](http://www.psi.toronto.edu/~jimmy/ece521/Lec18-hmm.pdf) 
 | Lecture: Thu, Mar 23 | Parts of Bishop Chap. 13  | [Hidden Markov Models](http://www.psi.toronto.edu/~jimmy/ece521/Lec19-hmm2.pdf)
 | Tutorial |    | Review of Markov models <br/> Examples of inference in graphical models  <br/> [pdf slides]()
 | **Week 11** |       |
-| Lecture: Mon, Mar 27 | Bishop 8.4.4   | [Sum-product algorithm, etc]() (tentative)
-| Lecture: Thu, Mar 30 | Bishop 13.2.5   | [Viterbi algorithm, etc]() (tentative)
+| Lecture: Mon, Mar 27 | Parts of Murphy Chap 17<br/> Parts of Russell & Norvig Chap 15<br/> Bishop 13.2.5   | [Viterbi algorithm, etc]()
+| Lecture: Thu, Mar 30 | Mackay Chapter 16<br/> Bishop 8.4.4   | [Sum-product algorithm, etc]()
 | **Week 12** |       |
-| Lecture: Mon, Apr 3 |  Bishop 8.4.7  | [Loopy belief propagation]() (tentative)
+| Lecture: Mon, Apr 3 |  Parts of MacKay Chapter 26<br/> Bishop 8.4.7  | [Loopy belief propagation]() (tentative)
 | Lecture: Thu, Apr 6 |    |
 | **Week 13** |       |
 | Lecture: Mon, Apr 10 |    |
