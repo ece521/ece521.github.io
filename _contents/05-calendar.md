@@ -53,7 +53,7 @@ image: ""
 | Lecture: Thu, Mar 23 | Parts of Russell & Norvig 15.3<br/>Parts of Bishop Chap. 13  | [Hidden Markov Models](http://www.psi.toronto.edu/~jimmy/ece521/Lec19-hmm2.pdf)
 | Tutorial |    | Review of Markov models <br/> Examples of inference in graphical models  <br/> [pdf slides]()
 | **Week 11** |       |
-| Lecture: Mon, Mar 27 | Parts of Mackay Chapter 16 and Sections 26.1-26.2<br/> Bishop 8.4.4   | [Sum-product algorithms](http://www.psi.toronto.edu/~jimmy/ece521/Lec20-mp.pdf)
+| Lecture: Mon, Mar 27 | Parts of Mackay Chapter 16 and Sections 26.1-26.2<br/> Bishop 8.4.4   | [HMM inference](http://www.mebden.com/Lecture20HLI.pdf)
 | Lecture: Thu, Mar 30 | Murphy 17.4<br/>End of Russell & Norvig 15.2<br/>Bishop 13.2.5   | [Examples of message-passing algorithms]()
 | **Week 12** |       |
 | Lecture: Mon, Apr 3 |  MacKay 26.4<br/> Bishop 8.4.7  | [Loopy belief propagation]() 
