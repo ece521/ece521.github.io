@@ -51,7 +51,7 @@ image: ""
 | **Week 10** |           |
 | Lecture: Mon, Mar 20 | Russell & Norvig 15.1<br/>Parts of Bishop Chap. 13   | [Sequence models](http://www.psi.toronto.edu/~jimmy/ece521/Lec18-hmm.pdf) 
 | Lecture: Thu, Mar 23 | Parts of Russell & Norvig 15.3<br/>Parts of Bishop Chap. 13  | [Hidden Markov Models](http://www.psi.toronto.edu/~jimmy/ece521/Lec19-hmm2.pdf)
-| Tutorial |    | Review of Markov models <br/> Examples of inference in graphical models  <br/> [pdf slides]()
+| Tutorial |    | Review of Markov models <br/> Examples of inference in graphical models  <br/> [pdf slides](http://www.psi.toronto.edu/~jimmy/ece521/Tut9.pdf)
 | **Week 11** |       |
 | Lecture: Mon, Mar 27 | Parts of Mackay Chapter 16 and Sections 26.1-26.2<br/> Bishop 8.4.4   | [HMM inference con't](http://www.mebden.com/ECE521/Lecture20HLI.pdf)
 | Lecture: Thu, Mar 30 | Murphy 17.4<br/>End of Russell & Norvig 15.2<br/>Bishop 13.2.5   | [Examples of message-passing algorithms]()
