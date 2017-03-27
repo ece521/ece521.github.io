@@ -7,7 +7,7 @@ image: ""
 ---
 
 
- - **Mar 27,  1:34pm**: The assignment 4 pdf handout is out on the course website. The due date is April 9th midnight, 2017. You have more than two weeks to complete this assignment. 
+ - **Mar 27,  1:34pm**: The assignment 4 handout is posted on the course website. The due date is April 9th midnight, 2017. You have more than two weeks to complete this assignment. 
 
  - **Mar 8,  12:45pm**: The assignment 3 pdf handout and the related dataset is out on the course website. The due date is Mar 24th midnight, 2017. You have more than two weeks to complete this assignment. 
 
