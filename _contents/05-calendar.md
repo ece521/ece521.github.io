@@ -54,8 +54,8 @@ image: ""
 | Tutorial |    | Review of Markov models <br/> Examples of inference in graphical models  <br/> [pdf slides](http://www.psi.toronto.edu/~jimmy/ece521/Tut9.pdf)
 | **Week 11** |       |
 | Lecture: Mon, Mar 27 | Murphy 17.4<br/>End of Russell & Norvig 15.2<br/>Bishop 13.2.5    | [HMM inference/learning](http://www.mebden.com/ECE521/Lecture20HLI.pdf)
-| Assignment 4: Mon, Mar 27 | Due date: April 9th midnight, 2017 <br/> Graphical models, sum-product algorithm            | [Assignment handout](http://www.psi.toronto.edu/~jimmy/ece521/a4.pdf)
-| Lecture: Thu, Mar 30 | Parts of Mackay Chapter 16 and Sections 26.1-26.2<br/>Bishop 8.4.4   | Message-passing algorithms
+| Assignment 4: Mon, Mar 27 | Due date: April 9th midnight, 2017 <br/> Graphical models, sum-product algorithm       | [Assignment handout](http://www.psi.toronto.edu/~jimmy/ece521/a4.pdf)
+| Lecture: Thu, Mar 30 | Parts of Mackay Chapter 16 and Sections 26.1-26.2<br/>Bishop 8.4.4   | Message-passing algorithms (update: to be taught by Jimmy Ba, as of 27 Mar)
 | **Week 12** |       |
 | Lecture: Mon, Apr 3 |  MacKay 26.4<br/> Bishop 8.4.7  | [Loopy belief propagation]() 
 | Lecture: Thu, Apr 6 |    |
