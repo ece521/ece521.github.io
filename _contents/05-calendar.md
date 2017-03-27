@@ -58,7 +58,7 @@ image: ""
 | Lecture: Thu, Mar 30 | Parts of MacKay Chapter 16 and Sections 26.1-26.2<br/>Bishop 8.4.4   | Message-passing algorithms (update: to be taught by Jimmy Ba, as of 27 Mar)
 | **Week 12** |       |
 | Lecture: Mon, Apr 3 |  MacKay 26.4<br/> Bishop 8.4.7  | [Loopy belief propagation]() 
-| Lecture: Thu, Apr 6 |  MacKay Chapters 16 and 26<br/> Bishop 8.4.7  | Numerical examples of loopy belief propagation etc (tentative)
+| Lecture: Thu, Apr 6 |  MacKay Chapters 16 and 26<br/> Bishop 8.4.7  | Numerical examples of belief propagation (tentative)
 | **Week 13** |       |
 | Lecture: Mon, Apr 10 |    | The variational autoencoder (tentative)
 | Lecture: Thu, Apr 13 |  All the above  | Exam review (tentative)
