@@ -6,6 +6,9 @@ subheading: Announcements&#58;
 image: ""
 ---
 
+
+ - **Mar 27,  1:34pm**: The assignment 4 pdf handout is out on the course website. The due date is April 9th midnight, 2017. You have more than two weeks to complete this assignment. 
+
  - **Mar 8,  12:45pm**: The assignment 3 pdf handout and the related dataset is out on the course website. The due date is Mar 24th midnight, 2017. You have more than two weeks to complete this assignment. 
 
  - **Feb 13,  3:27pm**: Skule has implemented a new on-going annoynemous feedback system [SpeakUp!](http://speakup.skule.ca/). Instead of filling out the monthly early course evaluation in class, you can also submit your feedbacks on a rolling basis through the SpeakUp! webpage and your class rep will contact the course instructors to discuss the issues. 
