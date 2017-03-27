@@ -7,7 +7,7 @@ image: ""
 ---
 
 
- - **Mar 27,  1:34pm**: The assignment 4 handout is posted on the course website. The due date is April 9th midnight, 2017. You have two weeks to complete this assignment. 
+ - **Mar 27,  1:34pm**: Edit: The assignment 4 handout is posted on the course website. The due date is April 9th midnight, 2017. You have two weeks to complete this assignment. There are a few practice problems included in the A4 handout that will not be graded. You do not need to include the solutions for the practice questions in your final report. These practice problems may be helpful for preparing the final exam on the 20th of April.
 
  - **Mar 8,  12:45pm**: The assignment 3 pdf handout and the related dataset is out on the course website. The due date is Mar 24th midnight, 2017. You have more than two weeks to complete this assignment. 
 
