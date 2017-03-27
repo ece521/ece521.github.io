@@ -55,13 +55,12 @@ image: ""
 | **Week 11** |       |
 | Lecture: Mon, Mar 27 | Murphy 17.4<br/>End of Russell & Norvig 15.2<br/>Bishop 13.2.5    | [HMM inference/learning](http://www.mebden.com/ECE521/Lecture20HLI.pdf)
 | Assignment 4: Mon, Mar 27 | Due date: April 9th midnight, 2017 <br/> Graphical models, sum-product algorithm         | [Assignment handout (updated)](http://www.psi.toronto.edu/~jimmy/ece521/a4.pdf)
-| Lecture: Thu, Mar 30 | Parts of Mackay Chapter 16 and Sections 26.1-26.2<br/>Bishop 8.4.4   | Message-passing algorithms
-| Lecture: Thu, Mar 30 | Parts of Mackay Chapter 16 and Sections 26.1-26.2<br/>Bishop 8.4.4   | Message-passing algorithms (update: to be taught by Jimmy Ba, as of 27 Mar)
+| Lecture: Thu, Mar 30 | Parts of MacKay Chapter 16 and Sections 26.1-26.2<br/>Bishop 8.4.4   | Message-passing algorithms (update: to be taught by Jimmy Ba, as of 27 Mar)
 | **Week 12** |       |
 | Lecture: Mon, Apr 3 |  MacKay 26.4<br/> Bishop 8.4.7  | [Loopy belief propagation]() 
-| Lecture: Thu, Apr 6 |    |
+| Lecture: Thu, Apr 6 |  MacKay Chapters 16 and 26<br/> Bishop 8.4.7  | Numerical examples of loopy belief propagation etc (tentative)
 | **Week 13** |       |
-| Lecture: Mon, Apr 10 |    |
-| Lecture: Thu, Apr 13 |    |
+| Lecture: Mon, Apr 10 |    | The variational autoencoder (tentative)
+| Lecture: Thu, Apr 13 |  All the above  | Exam review (tentative)
 | **Exam**|      |
 | Thu, Apr 20 |       | For study practice: [2013 midterm](http://mebden.com/ECE521/midterm2013.pdf)
