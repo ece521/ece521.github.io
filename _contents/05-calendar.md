@@ -56,6 +56,7 @@ image: ""
 | Lecture: Mon, Mar 27 | Murphy 17.4<br/>End of Russell & Norvig 15.2<br/>Bishop 13.2.5    | [HMM inference/learning](http://www.mebden.com/ECE521/Lecture20HLI.pdf)
 | Assignment 4: Mon, Mar 27 | Due date: April 9th midnight, 2017 <br/> Graphical models, sum-product algorithm         | [Assignment handout (updated)](http://www.psi.toronto.edu/~jimmy/ece521/a4.pdf)
 | Lecture: Thu, Mar 30 | Parts of MacKay Chapter 16 and Sections 26.1-26.2<br/>Bishop 8.4.4  <br/> [Kschischang, Frey and Loeliger: Factor Graphs and the Sum-Product Algorithm](www.psi.toronto.edu/~frey/papers/fgspa.ps) Section 2 <br/> [Frey: Extending Factor Graphs so as to Unify Directed and Undirected Graphical Models](https://arxiv.org/pdf/1212.2486) Section 2  |  [Message-passing algorithms (updated notation)](http://www.psi.toronto.edu/~jimmy/ece521/Lec21-mp.pdf) (update: to be taught by Jimmy Ba, as of 27 Mar)
+| Tutorial |    | Forward-backward algorithm <br/> The sum-product algorithm  <br/> [pdf slides](http://www.psi.toronto.edu/~jimmy/ece521/Tut10.pdf)
 | **Week 12** |       |
 | Lecture: Mon, Apr 3 |  MacKay 26.4<br/> Bishop 8.4.7  | [Loopy belief propagation]() 
 | Lecture: Thu, Apr 6 |  MacKay Chapters 16 and 26<br/> Bishop 8.4.7  | Numerical examples of belief propagation (tentative)
