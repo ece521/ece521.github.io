@@ -59,7 +59,7 @@ image: ""
 | Tutorial |    | Forward-backward algorithm <br/> The sum-product algorithm  <br/> [pdf slides](http://www.psi.toronto.edu/~jimmy/ece521/Tut10.pdf)
 | **Week 12** |       |
 | Lecture: Mon, Apr 3 | Murphy 17.4.4 & 20.2<br/>Bishop 8.4.5 & 13.2.5<br/>MacKay 26.3  | [Max-sum algorithm](http://www.mebden.com/ECE521/Lec22.pdf)
-| Lecture: Thu, Apr 6 |  MacKay Chapters 16 and 26<br/> Bishop 8.4.7<br/>LBP: MacKay 26.4, Bishop 8.4.7  | Loopy belief propagation, Numerical examples of belief propagation (tentative)
+| Lecture: Thu, Apr 6 |  MacKay Chapters 16 and 26<br/> Bishop 8.4.7<br/>LBP: MacKay 26.4, Bishop 8.4.7  | Junction-tree algorithm, Loopy belief propagation
 | **Week 13** |       |
 | Lecture: Mon, Apr 10 |    | The variational autoencoder (tentative)
 | Lecture: Thu, Apr 13 |  All the above  | Exam review (tentative)
