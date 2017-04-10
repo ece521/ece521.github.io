@@ -60,8 +60,9 @@ image: ""
 | **Week 12** |       |
 | Lecture: Mon, Apr 3 |  MacKay 26.4<br/> Bishop 8.4.7  | [Loopy belief propagation]() 
 | Lecture: Thu, Apr 6 |  MacKay Chapters 16 and 26<br/> Bishop 8.4.7  | Numerical examples of belief propagation (tentative)
+| Tutorial |    | Topic review  <br/> [pdf slides](http://www.psi.toronto.edu/~jimmy/ece521/Tut11.pdf)
 | **Week 13** |       |
-| Lecture: Mon, Apr 10 |    | The variational autoencoder (tentative)
+| Lecture: Mon, Apr 10 | [The first section of Murphy 19.6](https://www.cs.ubc.ca/~murphyk/MLbook/pml-print3-ch19.pdf)   | [Supervised Learning using Graphical Models <br/> Discriminative Approach <br/> Conditional Random Fields (CRFs) <br/> Combining Deep Learning with Graphical Models](http://www.psi.toronto.edu/~jimmy/ece521/Lec24.pdf) 
 | Lecture: Thu, Apr 13 |  All the above  | Exam review (tentative)
 | **Exam**|      |
 | Thu, Apr 20 |       | For study practice: [2013 midterm](http://mebden.com/ECE521/midterm2013.pdf)
