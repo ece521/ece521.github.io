@@ -58,9 +58,9 @@ image: ""
 | Lecture: Thu, Mar 30 | Parts of MacKay Chapter 16 and Sections 26.1-26.2<br/>Bishop 8.4.4  <br/> [Kschischang, Frey and Loeliger: Factor Graphs and the Sum-Product Algorithm](www.psi.toronto.edu/~frey/papers/fgspa.ps) Section 2 <br/> [Frey: Extending Factor Graphs so as to Unify Directed and Undirected Graphical Models](https://arxiv.org/pdf/1212.2486) Section 2  |  [Message-passing algorithms (updated notation)](http://www.psi.toronto.edu/~jimmy/ece521/Lec21-mp.pdf) (update: to be taught by Jimmy Ba, as of 27 Mar)
 | Tutorial |    | Forward-backward algorithm <br/> The sum-product algorithm  <br/> [pdf slides](http://www.psi.toronto.edu/~jimmy/ece521/Tut10.pdf)
 | **Week 12** |       |
-| Lecture: Mon, Apr 3 |  MacKay 26.4<br/> Bishop 8.4.7  | [Loopy belief propagation]() 
-| Lecture: Thu, Apr 6 |  MacKay Chapters 16 and 26<br/> Bishop 8.4.7  | Numerical examples of belief propagation (tentative)
-| Tutorial |    | Topic review  <br/> [pdf slides](http://www.psi.toronto.edu/~jimmy/ece521/Tut11.pdf)
+| Lecture: Mon, Apr 3 | Murphy 17.4.4 & 20.2<br/>Bishop 8.4.5 & 13.2.5<br/>MacKay 26.3  | [Max-sum algorithm](http://www.mebden.com/ECE521/Lec22.pdf)
+| Lecture: Thu, Apr 6 |  MacKay Chapters 16 and 26<br/> Bishop 8.4.7<br/>LBP: MacKay 26.4, Bishop 8.4.7  | [Junction-tree algorithm, Loopy belief propagation](http://www.mebden.com/ECE521/Lec23.pdf)
+| Tutorial |    | Review  <br/> [pdf slides](http://www.psi.toronto.edu/~jimmy/ece521/Tut11.pdf)
 | **Week 13** |       |
 | Lecture: Mon, Apr 10 | [The first section of Murphy 19.6](https://www.cs.ubc.ca/~murphyk/MLbook/pml-print3-ch19.pdf)   | [Supervised Learning using Graphical Models <br/> Discriminative Approach <br/> Conditional Random Fields (CRFs) <br/> Combining Deep Learning with Graphical Models](http://www.psi.toronto.edu/~jimmy/ece521/Lec24.pdf) 
 | Lecture: Thu, Apr 13 |  All the above  | Exam review (tentative)
