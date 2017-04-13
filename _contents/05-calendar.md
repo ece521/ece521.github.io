@@ -63,6 +63,6 @@ image: ""
 | Tutorial |    | Review  <br/> [pdf slides](http://www.psi.toronto.edu/~jimmy/ece521/Tut11.pdf)
 | **Week 13** |       |
 | Lecture: Mon, Apr 10 | [The first section of Murphy 19.6](https://www.cs.ubc.ca/~murphyk/MLbook/pml-print3-ch19.pdf)   | [Supervised Learning using Graphical Models <br/> Discriminative Approach <br/> Conditional Random Fields (CRFs) <br/> Combining Deep Learning with Graphical Models](http://www.psi.toronto.edu/~jimmy/ece521/Lec24.pdf) 
-| Lecture: Thu, Apr 13 |  All the above  | First hour: Course overview, and some of the 2013 midterm, with Jimmy Ba<br/>Second hour: The junction-tree algorithm, and some of the 2013 midterm, with Mark Ebden
+| Lecture: Thu, Apr 13 |  All the above  | Course concepts, the 2013 midterm, and finishing our junction-tree algorithm example
 | **Exam**|      |
 | Thu, Apr 20 |       | For study practice: [2013 midterm](http://mebden.com/ECE521/midterm2013.pdf)
