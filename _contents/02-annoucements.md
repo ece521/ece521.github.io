@@ -6,6 +6,16 @@ subheading: Announcements&#58;
 image: ""
 ---
 
+ - **Apr 18,  6:45pm**: We will hold the following office hours to help preparing for the final exam. The final exam is scheduled for Thursday April 20th 9:30am- 12:00 noon
+
+ - **Apr 16,  4:29pm**: We will hold the following office hours to help preparing for the final exam. The final exam is scheduled for Thursday April 20th 9:30am- 12:00 noon
+   * Monday April 17th, BA4161
+   * 12:00- 1:00 pm: Kaustav, Tony
+   * 3:00-4:00 pm: Jimmy
+   * Tuesday April 18th, BA4161
+   * 12:00- 1:00 pm: Renjie, Eleni
+   * Wednesday April 19th, BA4161
+   * 12:00- 1:00 pm: Shenlong, Renjie
 
  - **Mar 27,  1:34pm**: Edit: The assignment 4 handout is posted on the course website. The due date is April 9th midnight, 2017. You have two weeks to complete this assignment. There are a few practice problems included in the A4 handout that will not be graded. You do not need to include the solutions for the practice questions in your final report. These practice problems may be helpful for preparing the final exam on the 20th of April.
 
